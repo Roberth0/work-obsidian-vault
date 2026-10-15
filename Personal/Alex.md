@@ -50,7 +50,6 @@ source: https://lajavaness.medium.com/speaker-diarization-an-introductory-overvi
 Create hg token
 ![[Pasted image 20241024133213.png]]
 
-Token: `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`
 
 
 ![[Pasted image 20241024134451.png]]
