@@ -1,0 +1,186 @@
+# Wiki Index
+
+> Auto-generated knowledge base directory
+
+> Note: Text in backticks after page names shows aliases — alternative names, abbreviations, or translations.
+
+
+## Entities
+
+- [[entities/informacion-recibida-de-sistemas|informacion-recibida-de-sistemas]] `aliases: Información recibida de sistemas, Datos recibidos de sistemas de información, Datos recibidos de sistemas` - **Informacion recibida de sistemas** es una sección operativa de [[Telcograph]] en la que se gestion
+- [[entities/ruckus|ruckus]] `aliases: Ruckus Wireless, Controladora RUCKUS` - RUCKUS es una marca/producto de controladora inalámbrica mencionada explícitamente en el documento f
+- [[entities/access-point|access-point]] `aliases: AP, APs, Punto de Acceso` - Un **Access Point** (AP), o punto de acceso, es el dispositivo inalámbrico que provee cobertura WiFi
+- [[entities/4-cedia|4-cedia]] `aliases: 4 Cedia, Cliente CEDIA, CEDIA` - **4 Cedia** es un rol operativo asociado al cliente [[CEDIA]] dentro de [[Telconet]], responsable de
+- [[entities/telcodrive|telcodrive]] `aliases: telcodrive.telconet.net, Telconet Drive` - telcodrive es el servicio de almacenamiento de archivos interno de [[Telconet]], accesible en la dir
+- [[entities/concentrador-de-ambato|concentrador-de-ambato]] `aliases: Concentrador Ambato, Ambato Concentrator, Concentrador de la Red Metropolitana de Ambato` - El **Concentrador de Ambato** es el equipo de agregación desde el cual se recomienda iniciar la veri
+- [[entities/nokia|nokia]] `aliases: Nokia Corporation, Nokia Oyj, Nokia Networks` - Nokia es el fabricante y proveedor de los equipos de red que intervienen en los enlaces de la red de
+- [[entities/sam-client|sam-client]] `aliases: SAM, SAM Client` - SAM CLIENT es una aplicación de gestión de red utilizada en el entorno de [[CEDIA]] que permite busc
+- [[entities/cedia|cedia]] `aliases: Corporación Ecuatoriana para el Desarrollo de la Investigación y la Academia, CEDIA Ecuador` - CEDIA es la organización de red académica que figura como cliente de [[Telconet]] y cuyos enlaces so
+- [[entities/telcograph|telcograph]] `aliases: Telcograph Clientes` - Telcograph es una plataforma de monitoreo y gestión de red utilizada por [[Telconet]] para dar segui
+- [[entities/3-corporativos|3-corporativos]] `aliases: 3. Corporativos, Documento Corporativos, Credenciales WiFi Corporativos` - **3. Corporativos** es un documento operativo interno de [[Telconet S.A.]] que recopila credenciales
+- [[entities/radio-uio|radio-uio]] `aliases: Radios UIO, Radio Quito, RADIO UIO Quito` - RADIO UIO es el equipo de radio de [[Telconet S.A.]] con base en [[Quito]], destinatario de tareas d
+- [[entities/ruckus-cloud|ruckus-cloud]] `aliases: Ruckus Cloud (MSP), telconet.msp.ruckus.cloud, Ruckus Cloud MSP` - Ruckus Cloud es la plataforma en la nube de gestión de controladoras [[Controladora|controladoras]] 
+- [[entities/mimg|mimg]] `aliases: NOC MIMG, Área MIMG` - MIMG es un área o nodo de gestión del [[NOC]] de [[Telconet S.A.|Telconet]] encargado de administrar
+- [[entities/ipcc|ipcc]] `aliases: Usuario IPCC, IPCC-NCE, IPCC NCE` - IPCC es el nombre de usuario estándar empleado para acceder a las [[Controladora|controladoras]] y e
+- [[entities/telcograf|telcograf]] `aliases: telcograf.telconet.ec, Plataforma Telcograf` - Telcograf es una plataforma de visualización de datos con enfoque de dashboard, análoga a Grafana, a
+- [[entities/noc-radio|noc-radio]] `aliases: NOC RADIO, Chat NOC-RADIO, NOC-RADIO Telconet` - NOC-RADIO es el grupo o chat de operación de radio de [[Telconet S.A.]], dependiente del [[NOC]], en
+- [[entities/meraki|meraki]] `aliases: Cisco Meraki, Meraki Networks, Meraki Dashboard` - Meraki es una solución de gestión de redes inalámbricas, habitualmente desplegada en entornos corpor
+- [[entities/omarsa|omarsa]] `aliases: Omarsa-Panama, Omarsa Panamá` - Omarsa es un cliente corporativo de [[Telconet S.A.|Telconet S.A.]] con operación en [[Panamá]], y e
+- [[entities/noc|noc]] `aliases: Network Operations Center, Centro de Operaciones de Red, NOC (Network Operations Center)` - El NOC (Network Operations Center, o Centro de Operaciones de Red) es el centro de operaciones encar
+- [[entities/huawei|huawei]] `aliases: HW, Huawei Technologies Co., Ltd., 华为` - Huawei es uno de los fabricantes de controladoras WiFi administradas que aparecen documentados en el
+- [[entities/cisco|cisco]] `aliases: Claves Cisco, Cisco Systems, Inc.` - Cisco es un fabricante de equipos de red cuyas controladoras inalámbricas son gestionadas por [[Telc
+- [[entities/2-1-cscg|2-1-cscg]] `aliases: CSCG, Monitoreo CSCG` - CSCG es el área responsable del monitoreo y la gestión de incidencias vinculada a la red de [[VIPS]]
+- [[entities/camaras|camaras]] `aliases: cámara/s, Camara, Cámaras de videovigilancia` - Las **Camaras** son los dispositivos de videovigilancia monitoreados dentro de la operación [[CSCG]]
+- [[entities/monitoreo-cscg|monitoreo-cscg]] `aliases: Chat de Whatsapp Monitoreo CSCG, Grupo de WhatsApp Monitoreo CSCG, Monitorización CSCG` - Monitoreo CSCG es el grupo de comunicación utilizado por el equipo de monitoreo para notificar y coo
+- [[entities/ont|ont]] `aliases: Optical Network Terminal, ONT caída, Terminal de Red Óptica` - La **ONT** (Optical Network Terminal) es el equipo óptico de cliente que actúa como punto terminal d
+- [[entities/andy-enrique-barberan-cortez|andy-enrique-barberan-cortez]] `aliases: Andy Barberan, Andy Enrique Barberán Cortez, Barberan Cortez` - Andy Enrique Barberan Cortez es el técnico responsable de recibir las tareas generadas dentro del fl
+- [[entities/olt|olt]] `aliases: Optical Line Terminal, OLTs, Terminal de Línea Óptica` - La OLT (Optical Line Terminal) es el equipo óptico terminal del lado de la red cuya caída o estado *
+- [[entities/oss|oss]] `aliases: oss.netlife.net.ec, Open Source Systems, Sistema OSS` - El OSS es el sistema de gestión de red (Operations Support System) disponible en `https://oss.netlif
+- [[entities/camaras-corporacion-gye|camaras-corporacion-gye]] `aliases: Cámaras Corporación GYE, Cámaras GYE, Zabbix Cámaras GYE` - Camaras Corporacion GYE es el tercer servidor de monitoreo de [[vips]], accesible mediante la direcc
+- [[entities/telegram|telegram]] `aliases: Telegram Messenger, Telegram app, TG` - Telegram es una aplicación de mensajería utilizada como canal de comunicación por el equipo de monit
+- [[entities/noc-ipccl1-proactivos|noc-ipccl1-proactivos]] `aliases: IPCCL1, NOC IPCCL1, IPCCL1 Proactivos` - NOC IPCCL1 PROACTIVOS es el equipo —y a la vez el chat grupal— al que deben notificarse las tareas y
+- [[entities/produbanco|produbanco]] `aliases: Banco de la Producción, Banco de la Producción S.A. Produbanco, Produbanco S.A.` - Produbanco es una entidad financiera que figura como cliente bancario dentro de la operación de [[vi
+- [[entities/banco-bolivariano|banco-bolivariano]] `aliases: Bolivariano, Banco Bolivariano C.A.` - Banco Bolivariano es una entidad bancaria identificada como cliente prioritario dentro de la operaci
+- [[entities/102-correos|102-correos]] `aliases: 102 Correos, Correos 102, Nota 102 Correos` - «102 Correos» es una nota de trabajo personal que funciona como repositorio de evidencias y comunica
+- [[entities/permisos-torre-boreal|permisos-torre-boreal]] `aliases: Permisos del edificio Torre Boreal, Torre Boreal Permits, Permisos Torre Boreal (sección)` - Permisos Torre Boreal es la sección de la nota [[102 Correos]] dedicada a la gestión de autorizacion
+- [[entities/telcos|telcos]] `aliases: Plataforma Telcos, telcos.telconet.ec, Telcos Telconet` - Telcos es la plataforma de gestión de soporte y tareas accesible en `telcos.telconet.ec`, sobre la c
+- [[entities/zabbix|zabbix]] `aliases: Zabbix monitoring, Zabbix Server` - Zabbix es la plataforma de monitoreo que actúa como sistema origen de la información en el flujo de 
+- [[entities/arelion|arelion]] `aliases: Arelion Portal, Telia Carrier` - Arelion es un proveedor internacional de conectividad de backbone que aparece documentado como uno d
+- [[entities/cnt|cnt]] `aliases: Corporación Nacional de Telecomunicaciones, TELCONET-CNT` - CNT (Corporación Nacional de Telecomunicaciones) es un proveedor de conectividad con el que [[Telcon
+- [[entities/claro|claro]] `aliases: Claro Ecuador, TIC Claro, Claro Telecom` - Claro es un operador de telecomunicaciones que, en el contexto documentado por [[Telconet]], actúa c
+- [[entities/cables-&-wireless|cables-&-wireless]] `aliases: C&W, Cables and Wireless` - Cables & Wireless (C&W) es un proveedor internacional de conectividad que participa en el backbone d
+- [[entities/akamai|akamai]] `aliases: Akamai Technologies, CDN Akamai, Akamai CDN` - Akamai es un proveedor internacional de red de distribución de contenido (CDN) con el que [[Telconet
+- [[entities/sparkle|sparkle]] `aliases: TIS Sparkle, Telecom Italia Sparkle, Sparkle Argentina` - Sparkle (TIS Sparkle) es un operador internacional de telecomunicaciones con el que [[Telconet]] ges
+- [[entities/cert|cert]] `aliases: Computer Emergency Response Team, Equipo de Respuesta ante Emergencias Informáticas` - CERT (Computer Emergency Response Team) es el equipo de respuesta ante incidentes de seguridad al qu
+- [[entities/teuno|teuno]] - Teuno es un cliente de [[Telconet]] del cual dependen determinados equipos alojados en el datacenter
+- [[entities/ibm|ibm]] `aliases: Datacenter IBM, International Business Machines, IBM Corporation` - IBM es el proveedor del datacenter en el que [[Telconet]] aloja equipos de clientes. En la documenta
+- [[entities/opu|opu]] `aliases: Operaciones OPU, Operations OPU` - OPU es el área de operaciones a la que se escalan las tareas cuando se detectan fallas que el [[noc]
+- [[entities/otn|otn]] `aliases: Optical Transport Network, Área OTN` - OTN es el área o departamento responsable de la red de transporte óptico al que se reportan las alar
+- [[entities/nw|nw]] `aliases: Network, Departamento NW` - NW es el área de red a la que el NOC escala las tareas que requieren cambios o validaciones sobre lo
+- [[entities/alertas-dos|alertas-dos]] `aliases: Alertas de Denial of Service, Ataques DoS, Denegación de servicio` - Las **Alertas DoS** son notificaciones de posibles ataques de denegación de servicio (Denial of Serv
+- [[entities/snmp-v3|snmp-v3]] `aliases: SNMPv3, Simple Network Management Protocol v3, SNMP versión 3` - SNMP v3 (Simple Network Management Protocol versión 3) es el protocolo de monitoreo de red empleado 
+- [[entities/violaciones-de-mac|violaciones-de-mac]] `aliases: MAC violations, Violación de MAC, MAC address violations` - Las Violaciones de MAC son un evento de red que el [[noc]] debe gestionar cuando se detecta un exces
+- [[entities/backbone|backbone]] `aliases: Backbone Nacional, NOC-IPCCL1-Backbone, Red Troncal, 1. Backbone` - El Backbone es la red troncal de [[Telconet]] y su operación constituye el objeto central del docume
+- [[entities/digis|digis]] `aliases: Aplicativo Digis, Digis NOC` - Digis es una herramienta o aplicativo de monitoreo utilizado por el NOC (Network Operations Center) 
+- [[entities/pruebas-l3|pruebas-l3]] `aliases: L3, Reporte L3, Prueba L3` - Las Pruebas L3 son un procedimiento de verificación de capa 3 (L3) de la red que se ejecuta desde el
+- [[entities/arbor|arbor]] `aliases: Arbor Networks, Arbor Networks Peakflow, Peakflow` - Arbor es la plataforma de detección y mitigación de ataques de denegación de servicio (DoS) utilizad
+- [[entities/ufinet|ufinet]] `aliases: UFINET Portal incidencias, UFINET Ticketing` - UFINET es un operador de infraestructura de telecomunicaciones que forma parte de las relaciones de 
+- [[entities/hillstone|hillstone]] `aliases: Hillstone Networks, Firewall Hillstone, Hillstone Firewall` - Hillstone es un firewall o equipo de seguridad de red fabricado por Hillstone Networks, gestionado p
+- [[entities/packetlight|packetlight]] `aliases: Packet Light` - PacketLight es un equipo de transporte óptico monitoreado por el NOC, asociado al identificador `.24
+- [[entities/fiberhome|fiberhome]] `aliases: FH` - FiberHome es una plataforma/equipo de transmisión óptica gestionada por el NOC (Network Operations C
+- [[entities/0-1-correos-y-claves|0-1-correos-y-claves]] `aliases: Correos y Claves, 0.1 Correos y Claves Telconet, Nota de correos y claves NOC, Credenciales de acceso, Credenciales` - **0.1 Correos y Claves** es una nota operativa interna de [[Telconet]] que funciona como repositorio
+- [[entities/telconet|telconet]] `aliases: Telconet S.A., Telconet.ec, noc@telconet.ec` - Telconet es la empresa ecuatoriana de telecomunicaciones que opera como red de transporte y acceso e
+- [[entities/cloudflare|cloudflare]] `aliases: CloudFlare NOC, Cloudflare Inc.` - Cloudflare es un proveedor de infraestructura de red, red de distribución de contenido (CDN) y segur
+- [[entities/0-directorio-telefonico|0-directorio-telefonico]] `aliases: Directorio Telefónico, Directorio Telefónico Operativo, TS Directorio` - El **0. Directorio Telefonico** es un directorio telefónico operativo interno que consolida los cont
+- [[entities/uio|uio]] `aliases: Quito, UIO (Quito), Aeropuerto de Quito` - UIO es el código IATA del aeropuerto de Quito y, en el directorio telefónico, funciona como abreviat
+- [[entities/gye|gye]] `aliases: Guayaquil, Aeropuerto de Guayaquil, GYE (Guayaquil)` - GYE es el código IATA del aeropuerto de Guayaquil y, en el directorio telefónico, la etiqueta con la
+- [[entities/opu-gye|opu-gye]] `aliases: OPU Guayaquil, Operaciones GYE, OPU GYE` - OPU GYE es la unidad de operaciones de Guayaquil y aparece en el directorio telefónico bajo la secci
+- [[entities/datacenter-boc|datacenter-boc]] `aliases: BOC, Monitoreo BOC` - Datacenter BOC es el centro de datos desde el cual se gestionan las manos remotas y el monitoreo de 
+- [[entities/veronica-cruz|veronica-cruz]] `aliases: Verónica Cruz, V. Cruz, Cruz, Veronica` - Veronica Cruz es la persona designada para aprobar los permisos de ingreso a [[Cirion]], y aparece r
+- [[entities/cirion|cirion]] `aliases: Cirion Technologies, DC UIO Cirion, DC UIO` - Cirion es una organización proveedora de infraestructura de datacenter con la que la empresa mantien
+
+## Concepts
+
+- [[concepts/comandos|comandos]] `aliases: Comandos de diagnóstico, Comandos de troubleshooting de red` - **Comandos** es una nota técnica de operación de red que compila un conjunto de comandos de diagnóst
+- [[concepts/rango-de-advertencia-óptico|rango-de-advertencia-óptico]] `aliases: Warning range, umbral óptico, Optical warning range` - El **rango de advertencia óptico** (en inglés, *warning range*) es el intervalo de valores de potenc
+- [[concepts/display-bgp-vpnv4|display-bgp-vpnv4]] `aliases: display bgp vpnv4 vpn-instance, show bgp vpnv4` - `display bgp vpnv4` es la familia de comandos de la CLI de Huawei que permite consultar información 
+- [[concepts/display-interface|display-interface]] `aliases: display interface 100GE4/0/14, show interface` - **display interface** es un comando de diagnóstico de línea de comandos que muestra los parámetros d
+- [[concepts/potencia-óptica-rxtx|potencia-óptica-rxtx]] `aliases: Rx/Tx Power, niveles de potencia óptica, Optical Rx/Tx Power` - La **potencia óptica Rx/Tx** es el nivel de señal óptica recibida (Rx, *receive*) y transmitida (Tx,
+- [[concepts/vpn-instance|vpn-instance]] `aliases: instancia VPN, VPN instance, VRF` - **vpn-instance** (instancia VPN) es el constructo de configuración que aísla tablas de enrutamiento 
+- [[concepts/stp|stp]] `aliases: Spanning Tree Protocol, spanning-tree, Protocolo de Árbol de Expansión` - STP (Spanning Tree Protocol) es el protocolo de capa 2 que evita la formación de bucles en redes con
+- [[concepts/show-spanning-tree-detail|show-spanning-tree-detail]] `aliases: spanning-tree detail, display stp detail, show spanning-tree detail` - `show spanning-tree detail` es un comando de diagnóstico de red que despliega información detallada 
+- [[concepts/bgp|bgp]] `aliases: Border Gateway Protocol, BGP VPNv4, Protocolo de Puerta de Enlace de Frontera` - BGP (Border Gateway Protocol) es el protocolo de enrutamiento entre sistemas autónomos (AS) utilizad
+- [[concepts/hostname|hostname]] `aliases: Nombre de host, Host name` - Un **hostname** (nombre de host) es el nombre asignado a un dispositivo dentro de una red, que lo id
+- [[concepts/ip-de-ingreso|ip-de-ingreso]] `aliases: IP de ingreso, IP de entrada, Ingress IP` - La **IP de Ingreso** es la dirección IP que funciona como punto de entrada para acceder a los puntos
+- [[concepts/macros|macros]] `aliases: MACROS de configuración` - MACROS son plantillas o variables de configuración que deben actualizarse durante el ingreso de un A
+- [[concepts/ingresos-de-aps|ingresos-de-aps]] `aliases: Ingreso de APs, Ingreso de APs (hasta 5), AP Onboarding` - El **Ingreso de APs** es el procedimiento operativo mediante el cual se registran puntos de acceso (
+- [[concepts/union-de-razones-sociales|union-de-razones-sociales]] `aliases: Unión de Razones Sociales, Unificación de Razones Sociales, Merger of Legal Entity Names` - La **Union de Razones Sociales** es un procedimiento operativo consistente en fusionar o migrar la c
+- [[concepts/show-port|show-port]] `aliases: comando show port, show port 2/3/2 | match tate` - `show port` es un comando de red utilizado para verificar el estado operativo de un puerto y determi
+- [[concepts/show-lag-description|show-lag-description]] `aliases: comando show lag description, show lag description | match UNIANDES, descripción de LAG` - **show lag description** es un comando de red que permite consultar la composición de un agregado de
+- [[concepts/route-add-route-delete|route-add-route-delete]] `aliases: route add, route delete, comandos de ruteo, agregar y eliminar rutas` - **Route ADD** y **Route DELETE** son subcomandos de la utilidad de línea de comandos `route` de Wind
+- [[concepts/username-and-password|username-and-password]] `aliases: Autenticación Usuario y Contraseña, Username/Password, Usuario y contraseña` - **Username and Password** es el método de autenticación que debe seleccionarse en el cliente VPN par
+- [[concepts/caso-interurbano|caso-interurbano]] `aliases: incidente interurbano, interurban case, caso de incidente interurbano` - El **caso interurbano** es un tipo de incidencia en la que se ve afectada la comunicación entre ciud
+- [[concepts/monitoreo-olt|monitoreo-olt]] `aliases: Monitoreo de OLT, Ingreso monitoreo OLT, OLT Monitoring` - El **Monitoreo OLT** es el procedimiento mediante el cual se ingresa al monitoreo de equipos de fibr
+- [[concepts/link-loss|link-loss]] `aliases: pérdida de enlace, alarma link loss, link loss alarm` - **link loss** (pérdida de enlace) es la alarma de pérdida de conectividad de un enlace de red y cons
+- [[concepts/notificación-proactiva|notificación-proactiva]] `aliases: notificación proactiva de Zabbix, cambio de correo notificación proactivo, correo de notificación proactiva` - La **notificación proactiva** es el procedimiento operativo mediante el cual [[Zabbix]] envía las al
+- [[concepts/informe-ejecutivo|informe-ejecutivo]] `aliases: Informe Ejecutivo de Caída de Equipo, Informe de Caída de Equipo, Executive Report` - El **Informe Ejecutivo** es el documento formal que se elabora cuando ocurre una caída de equipo y q
+- [[concepts/vpn|vpn]] `aliases: Red Privada Virtual, Virtual Private Network, VPN de Cedia` - La VPN (Red Privada Virtual, del inglés *Virtual Private Network*) es el mecanismo de acceso remoto 
+- [[concepts/enlace-wifi|enlace-wifi]] `aliases: Enlace inalámbrico, TIPO ENLACE: WIFI, enlace caído` - **Enlace WIFI** es el término con el que [[Telconet S.A.]] designa los vínculos inalámbricos monitor
+- [[concepts/mac|mac]] `aliases: dirección MAC, MAC address, Media Access Control address` - MAC (Media Access Control) es el término que designa la dirección física de un dispositivo de red: u
+- [[concepts/wireless-all-aps|wireless-all-aps]] `aliases: Wireless - All APs, All APs, sección Wireless` - **Wireless / All APs** es la ruta de navegación específica de la interfaz de la [[Controladora]] ina
+- [[concepts/tarea|tarea]] `aliases: ticket, número de tarea, caso` - Una **Tarea** es el término empleado por [[Telconet S.A.]] para designar los tickets o casos numerad
+- [[concepts/login|login]] `aliases: login aux, nombre de usuario` - **Login** es el término que designa el identificador de cuenta utilizado para asociar un equipo o un
+- [[concepts/controladora|controladora]] `aliases: Controladora WiFi, Controladora inalámbrica, Wireless Controller` - En el dominio de las redes inalámbricas corporativas, **Controladora** designa el dispositivo o plat
+- [[concepts/monitorización-proactiva|monitorización-proactiva]] `aliases: monitoreo proactivo, monitorización proactiva de red, proactive monitoring` - La monitorización proactiva es el método mediante el cual Telconet detecta la caída de enlaces y de 
+- [[concepts/status-puertos|status-puertos]] `aliases: status puertos, estado de los puertos, consulta del estado de los puertos` - **Status puertos** es la opción del [[OSS]] que permite consultar el estado de los puertos de una ca
+- [[concepts/inventario-del-zabbix|inventario-del-zabbix]] `aliases: Inventario de Zabbix, OpciónInventario de Zabbix, Zabbix Inventory, Inventory` - El **Inventario del zabbix** es la opción de la plataforma [[Zabbix]] que se utiliza en el documento
+- [[concepts/caida-de-camaras|caida-de-camaras]] `aliases: caída de cámara, caida camara/s, Caída de cámara/s` - La **Caida de camara/s** es uno de los escenarios de diagnóstico descritos en el documento de refere
+- [[concepts/sin-respuesta-icmp|sin-respuesta-icmp]] `aliases: Motivo OSS: Sin respuesta ICMP, no respuesta ICMP, No ICMP response` - "Sin respuesta ICMP" es el motivo del [[OSS]] que corresponde a la caída de cámara ("Camara Down") d
+- [[concepts/escalamiento-a-ts-y-l1|escalamiento-a-ts-y-l1]] `aliases: Escalamiento a TS y L1, Escalar el caso a L1, Escalar la tarea a TS` - El **escalamiento a TS y L1** es el procedimiento operativo mediante el cual, ante una incidencia de
+- [[concepts/motivo-noc-y-motivo-oss|motivo-noc-y-motivo-oss]] `aliases: Motivo NOC, Motivo OSS, NOC Reason and OSS Reason` - **Motivo NOC y Motivo OSS** son los dos campos obligatorios que se registran en el seguimiento de ta
+- [[concepts/error-300|error-300]] `aliases: 300, grabando incorrectamente (300), Error de grabación 300` - El **Error 300** es un código de falla asociado a la Inteligencia Artificial (IA) que indica que un 
+- [[concepts/temperatura-elevada|temperatura-elevada]] `aliases: Alerta de temperatura elevada, High temperature, Temperatura elevada ONT` - La **temperatura elevada** es una alerta de monitoreo asociada a las [[ONT]] que se genera desde la 
+- [[concepts/corte-de-ultima-milla|corte-de-ultima-milla]] `aliases: Corte de UM, corte de última milla, Last Mile Cut` - El **Corte de ultima Milla** es la causa de incidencia que se registra como *Motivo OSS* en las plan
+- [[concepts/corte-de-fibra|corte-de-fibra]] `aliases: Corte de fibra óptica, Motivo NOC: Corte de Fibra, Fiber cut` - El **Corte de Fibra** es una causa de incidencia que se registra como **motivo NOC** en el seguimien
+- [[concepts/caida-de-caja|caida-de-caja]] `aliases: caída de caja, problema masivo, caída masiva de caja` - La **caída de caja** es un incidente masivo de red en el que **todas las OLTs asociadas a una caja s
+- [[concepts/caida-de-ont-y-camaras|caida-de-ont-y-camaras]] `aliases: Caída de ONT y cámaras, Caída puntual de ONT y cámaras, Falla de ONT y cámaras` - La **caída de ONT y cámaras** es un incidente operativo de red en el que los equipos de cliente fina
+- [[concepts/caso-o-tarea-ya-aperturado-por-algun-tiempo|caso-o-tarea-ya-aperturado-por-algun-tiempo]] `aliases: Caso antiguo, Tarea sin avances, Caso estancado` - **Caso o tarea ya aperturado por algun tiempo** es la situación operativa en la que una tarea o caso
+- [[concepts/etiqueta-notificacion-247|etiqueta-notificacion-247]] `aliases: Notificacion 24/7, Etiqueta de notificacion, Etiqueta de notificación 24/7` - La **Etiqueta notificacion 24/7** es la marca que debe registrarse al momento de contactar a un clie
+- [[concepts/logins-que-no-se-gestionan|logins-que-no-se-gestionan]] `aliases: Logins no gestionados, Usuarios que no se gestionan, Non-managed logins` - **Logins que no se gestionan** es la lista de identificadores de acceso (*logins*) que no deben ser 
+- [[concepts/reubicacion|reubicacion]] `aliases: Reubicación, Orden de Reubicación, Reubicación de puntos` - La **reubicación** es una orden que se aplica a los puntos de determinados clientes dentro del proce
+- [[concepts/corte-de-ruta|corte-de-ruta]] `aliases: Corte de ruta, Bloqueo de ruta, Ruta caída` - El **corte de ruta** es un procedimiento operativo que se activa cuando una ruta determinada cae, es
+- [[concepts/proactivo|proactivo]] `aliases: Proceso Proactivo, Proactivos` - El **proactivo** es el proceso mediante el cual el equipo genera casos de forma anticipada ante inci
+- [[concepts/vips|vips]] `aliases: Monitoreo VIPS, Monitoreo de VIPS, 2. VIPS` - VIPS es el servicio de vigilancia y monitoreo continuo cuya supervisión constituye el objeto central
+- [[concepts/numero_tarea|numero_tarea]] `aliases: numeroTarea, número de tarea, hid_numeroTarea` - `numero_tarea` es el identificador único de una tarea individual dentro de la plataforma [[Telcos]].
+- [[concepts/puerto-connected-no-aprende-mac|puerto-connected-no-aprende-mac]] `aliases: Puerto connected no aprende MAC y no ahi ping vrf, Puerto conectado sin aprendizaje MAC, Puerto connected sin ping en VRF` - "Puerto connected, no aprende MAC y no ahi ping vrf" es el síntoma técnico recurrente que se registr
+- [[concepts/101-telcos-zabbix-optimizaciones|101-telcos-zabbix-optimizaciones]] `aliases: Telcos - Zabbix optimizaciones, Optimizaciones Zabbix en Telcos, Automatización de soporte Telcos con Zabbix` - **101. Telcos - Zabbix optimizaciones** es una nota técnica que documenta el conjunto de peticiones 
+- [[concepts/empleado_asignado|empleado_asignado]] `aliases: empleado_asignacionCaso, 237805@@594591, assigned employee` - `empleado_asignado` es el parámetro que identifica al empleado responsable de una tarea o caso en [[
+- [[concepts/fecha_ejecucion|fecha_ejecucion]] `aliases: hora_ejecucion, fecha y hora de ejecución, fecha de ejecución` - `fecha_ejecucion` es el parámetro que define la fecha en la que debe ejecutarse una tarea reasignada
+- [[concepts/autoasignacion-del-caso|autoasignacion-del-caso]] `aliases: asunto_asignacionCaso, Autoasignación del Caso, Auto Assignment of Case` - "Autoasignacion del Caso" es el valor del campo `asunto_asignacionCaso` dentro de la estructura JSON
+- [[concepts/ingresarseguimientoregistrocontactos|ingresarseguimientoregistrocontactos]] `aliases: ingresarSeguimientoRegistroContacto, función ingresarSeguimientoRegistroContactos, registro de contactos de seguimiento` - `ingresarSeguimientoRegistroContactos` es una función JavaScript documentada en el archivo `Tareas.j
+- [[concepts/id_caso|id_caso]] `aliases: idCaso, identificador de caso, ID del caso` - `id_caso` es el identificador numérico del caso de soporte dentro de la plataforma [[Telcos]]. Se ut
+- [[concepts/login-aux|login-aux]] `aliases: login auxiliar, login_aux, login del enlace auxiliar` - El **login aux** es el identificador del enlace auxiliar de un cliente que se asocia a cada tarea de
+- [[concepts/motivo|motivo]] `aliases: campo motivo, motivo de la tarea, motivo de reasignación` - El **motivo** es el campo de texto libre que describe la razón por la cual se genera o se reasigna u
+- [[concepts/reiniciaestadorelacion|reiniciaestadorelacion]] `aliases: reiniciar estado Activo, reiniciarEstadoRelacion, reinicia estado relacion` - `reiniciaEstadoRelacion` es un endpoint de tipo `GET`, expuesto en la ruta `/soporte/info_caso/reini
+- [[concepts/id_detalle|id_detalle]] `aliases: ID de detalle, identificador de detalle, txtDetalleTareaSeg` - `id_detalle` es el campo identificador clave que vincula cada detalle de tarea dentro del sistema Te
+- [[concepts/reasignartarea|reasignartarea]] `aliases: Asignar Tarea, reasignarTarea endpoint, reasignar tarea` - **reasignarTarea** es el endpoint `POST (/soporte/tareas/reasignarTarea)` que permite crear o reasig
+- [[concepts/obtenerhoraserver|obtenerhoraserver]] `aliases: Peticion de Hora, obtener hora del servidor, get server time` - `obtenerHoraServer` es el endpoint `POST /soporte/tareas/obtenerHoraServer` que devuelve la fecha y 
+- [[concepts/actualizarhipotesis|actualizarhipotesis]] `aliases: Actualizar hipótesis, Asignar Caso Telcos, Actualizar hipotesis, hipotesis` - `actualizarHipotesis` es el endpoint POST de la plataforma [[Telcos]], accesible en la ruta `/soport
+- [[concepts/1-2-backbone-proveedores-internacionales|1-2-backbone-proveedores-internacionales]] `aliases: Backbone Proveedores Internacionales, Proveedores Internacionales de Backbone, International Backbone Providers` - **1.2 Backbone Proveedores Internacionales** es el documento operativo de [[Telconet]] que concentra
+- [[concepts/login-de-circuito|login-de-circuito]] `aliases: Login CNT, ID de circuito, Circuit Login` - El **login de circuito** es la denominación que [[Telconet]] utiliza para identificar cada enlace co
+- [[concepts/pid|pid]] `aliases: PID Claro, Product ID, Identificador de producto` - El **PID** es el identificador que se incluye al escalar un incidente ante [[Claro]], conforme a la 
+- [[concepts/tarea-de-seguimiento|tarea-de-seguimiento]] `aliases: Tarea de tracking, Task de seguimiento, Tarea de seguimiento de caso` - La **tarea de seguimiento** es un procedimiento interno de [[Telconet]] aplicado a los casos que afe
+- [[concepts/tis-id|tis-id]] `aliases: TIS ID, ID de Sparkle, Ticket ID de Sparkle` - El **TIS-ID** es el identificador de ticket que **Sparkle (Telecom Italia Sparkle)** utiliza para el
+- [[concepts/caso-técnico|caso-técnico]] `aliases: Caso técnico, Caso tecnico CNT, Ticket técnico` - Un **caso técnico** es el mecanismo formal que [[Telconet]] debe generar para escalar incidentes con
+- [[concepts/escalamiento|escalamiento]] `aliases: Escalamiento de proveedores, Niveles de escalamiento, Escalation` - El escalamiento es el procedimiento mediante el cual Telconet contacta y sube de nivel la gestión de
+- [[concepts/salidas-internacionales|salidas-internacionales]] - **Salidas Internacionales** es la denominación operativa del conjunto de enlaces del [[Backbone]] qu
+- [[concepts/rfo|rfo]] `aliases: Reason For Outage, Reporte RFO` - RFO (acrónimo de *Reason For Outage*, "razón de la interrupción") es el informe que documenta la cau
+- [[concepts/errores-y-crcs|errores-y-crcs]] `aliases: CRC, errores CRC, Errores y CRCs de Cámaras` - **Errores y CRCs** hace referencia a los errores de verificación por redundancia cíclica (CRC, *Cycl
+- [[concepts/ventanas-de-mantenimiento|ventanas-de-mantenimiento]] `aliases: VMs, Ventanas Programadas, Ventanas Programadas de OTN` - Las Ventanas de Mantenimiento (VMs) son los periodos planificados durante los cuales se ejecutan cam
+- [[concepts/veladas|veladas]] `aliases: Roles en Veladas, turno de velada, Velada` - **Veladas** es el término empleado en la documentación de origen para designar los turnos nocturnos 
+- [[concepts/gepon-tap|gepon-tap]] `aliases: GEPON Taps, GEPON TAP` - GEPON TAP es la designación del responsable asignado para atender las tareas de escalamiento **RDA /
+- [[concepts/ssh|ssh]] `aliases: Secure Shell, respuesta SSH` - SSH (Secure Shell) es el protocolo de acceso remoto utilizado para validar y administrar equipos de 
+- [[concepts/icmp|icmp]] `aliases: Internet Control Message Protocol, Protocolo de Mensajes de Control de Internet, respuesta ICMP` - ICMP (Internet Control Message Protocol) es el protocolo de la capa de red utilizado para verificar 
+- [[concepts/jefaturas|jefaturas]] `aliases: Jefaturas Telconet, Jefatura OTN, Jefatura IPCCL` - Las **Jefaturas** son la estructura organizativa de [[Telconet]] que agrupa las áreas operativas baj
+- [[concepts/base-celular|base-celular]] `aliases: Base celular de respaldo, Celular de respaldo, Base Celular` - La **Base Celular** es un número de teléfono móvil de respaldo que el directorio telefónico de la or
+- [[concepts/manos-remotas|manos-remotas]] `aliases: Remote hands, Manos remotas Datacenter` - Las **Manos Remotas** (del inglés *remote hands*) son el personal de soporte físico remoto encargado
+- [[concepts/distribucion-zonas|distribucion-zonas]] `aliases: Distribucion de Zonas, OPU GYE Zonas, Distribución de Zonas por Sector, Distribucion de zonas de GYE` - La **Distribucion Zonas** es el esquema que divide el área operativa de Guayaquil (OPU GYE) en zonas
+- [[concepts/gosseal|gosseal]] `aliases: Base Gosseal, Coordinador Gosseal` - Gosseal es un servicio o unidad operativa registrado en el directorio telefónico corporativo mediant
+- [[concepts/coordinadores-de-provincia|coordinadores-de-provincia]] `aliases: Coordinadores Provincia, Province Coordinators, Coordinadores Provinciales` - Los **Coordinadores de Provincia** son contactos de respaldo registrados en el directorio telefónico
+- [[concepts/tecnica-sucursal|tecnica-sucursal]] `aliases: TS, Técnica Sucursal` - **Tecnica Sucursal** (abreviada como **TS**) es el rol y la estructura organizativa que agrupa a los
+- [[concepts/escalamiento-permisos-ingreso-cirion|escalamiento-permisos-ingreso-cirion]] `aliases: Permisos Cirion, Escalamiento Cirion, Escalamiento de Permisos de Ingreso a Cirion` - El **Escalamiento Permisos ingreso Cirion** es el procedimiento documentado mediante el cual se soli
+
+## Sources
+
+- [[sources/comandos_d202a8|comandos_d202a8]] `aliases: Comandos de red Huawei, Chuleta de comandos Huawei`
+- [[sources/4-1-telcograph_4a563a|4-1-telcograph_4a563a]] `aliases: Telcograph 4.1, Procedimiento Telcograph (Unión de Razones Sociales y Ingresos de APs)`
+- [[sources/4-cedia_d7cef1|4-cedia_d7cef1]] `aliases: Rol Operativo Cedia, Cedia - Gestión de Incidentes Telconet`
+- [[sources/3-corporativos_04d2e4|3-corporativos_04d2e4]] `aliases: Corporativos, Controladoras WiFi Corporativas`
+- [[sources/2-1-cscg_5bb2db|2-1-cscg_5bb2db]] `aliases: 2.1 CSCG, Procedimientos CSCG`
+- [[sources/2-vips_147ea4|2-vips_147ea4]] `aliases: Monitoreo VIPS, Guía de Monitoreo VIPS`
+- [[sources/102-correos_112307|102-correos_112307]] `aliases: 102 Correos de trabajo, Correos 102`
+- [[sources/101-telcos-zabbix-optimizaciones_942fa6|101-telcos-zabbix-optimizaciones_942fa6]] `aliases: Telcos - Zabbix optimizaciones, Automatización Telcos y Zabbix`
+- [[sources/1-2-backbone-proveedores-internacionales_861235|1-2-backbone-proveedores-internacionales_861235]] `aliases: Proveedores Internacionales de Backbone, Backbone Proveedores Internacionales`
+- [[sources/1-backbone_5939cb|1-backbone_5939cb]] `aliases: Backbone NOC, Manual de Backbone Telconet`
+- [[sources/0-1-correos-y-claves_b0e46c|0-1-correos-y-claves_b0e46c]] `aliases: Correos y Claves, Credenciales y Contactos NOC Telconet`
+- [[sources/0-directorio-telefonico_b3619c|0-directorio-telefonico_b3619c]] `aliases: TS, Directorio Telefónico – Técnica Sucursal`

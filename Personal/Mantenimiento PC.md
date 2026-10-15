@@ -1,0 +1,13 @@
+Software
+- [ ] Disk cleanup
+- [ ] With cmd run `sfc /scannow`
+- [ ] Widows update
+- [ ] Microsoft Store updates
+	- [ ] Reset windows store `wsreset`
+- [ ] Storage sense, search setting in storage.
+- [ ] Clear browser cache
+- [ ] Optimize drives 
+	- [ ] Settings / Storage / Optimze drives
+- [ ] Flush DNS `ipconfig/flushdns`
+- [ ] Startup Programs
+- [ ] Clear location history

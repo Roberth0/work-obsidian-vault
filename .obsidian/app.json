@@ -1,0 +1,26 @@
+{
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 72
+  },
+  "fileSortOrder": "byCreatedTime",
+  "legacyEditor": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Organize files/img",
+  "propertiesInDocument": "source",
+  "spellcheck": false,
+  "vimMode": false,
+  "defaultViewMode": "preview",
+  "userIgnoreFilters": [
+    "Work/Turnos Backbone/",
+    "Organize files/img/",
+    "Personal/",
+    "Excalidraw/",
+    "wiki/"
+  ]
+}

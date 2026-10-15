@@ -1,0 +1,43 @@
+filters:
+  and:
+    - file.folder == "Work/Jefaturas"
+formulas:
+  Encargado: Jefe
+views:
+  - type: table
+    name: Tecnica Surcursal
+    filters:
+      and:
+        - '!file.hasProperty("ciudad")'
+    order:
+      - file.name
+      - jefe
+      - contacto
+      - basee
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: contacto
+        direction: ASC
+      - property: formula.Encargado
+        direction: ASC
+    columnSize:
+      file.name: 140
+      note.jefe: 188
+      note.contacto: 138
+      note.basee: 179
+  - type: table
+    name: Departamentos
+    filters:
+      and:
+        - file.hasProperty("ciudad")
+    order:
+      - file.name
+      - jefe
+      - ciudad
+    sort:
+      - property: ciudad
+        direction: DESC
+    columnSize:
+      file.name: 140
+      note.jefe: 281
